@@ -38,4 +38,4 @@ Veritabanındaki kullanıcıların cinsiyet ve ülke dağılımları dinamik gra
 
 ### 🔐 Detaylı Kullanıcı Kayıt Sistemi
 Yeni kullanıcıların sisteme dahil edilmesi için detaylı doğrulama (validation) içeren kayıt formu. Buradan eklenen her veri, eşzamanlı olarak API üzerinden veritabanına işlenir ve istatistik tablolarını anında günceller.
-![Kayıt Ekranı](docs/register.png)
+![Kayıt Ekranı](docs/register.png) 
